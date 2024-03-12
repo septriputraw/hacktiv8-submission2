@@ -1,13 +1,13 @@
 package main
 
 import (
-	"assignment2/config"
-	"assignment2/routers"
 	"fmt"
 	"log"
 	"os"
+	"submission2/config"
+	"submission2/routers"
 
-	_ "assignment2/docs"
+	_ "submission2/docs"
 
 	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"
@@ -16,8 +16,8 @@ import (
 	"github.com/joho/godotenv"
 )
 
-// @title Hacktiv8 Golang Assignment 2 - API Documentation
-// @description This is a REST API documentation for Hacktiv8 Golang Assignment 2.
+// @title Hacktiv8 Golang Submission 2 - API Documentation
+// @description This is a REST API documentation for Hacktiv8 Golang Submission 2.
 // @version 1.0
 //
 // @contact.name API Support

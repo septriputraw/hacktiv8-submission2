@@ -1,7 +1,7 @@
 package requests
 
 import (
-	. "assignment2/models"
+	. "submission2/models"
 	"time"
 )
 

@@ -1,12 +1,12 @@
 package controllers
 
 import (
-	"assignment2/api/requests"
-	"assignment2/api/responses"
-	"assignment2/api/services"
-	"assignment2/models"
-	"assignment2/utils"
 	"net/http"
+	"submission2/api/requests"
+	"submission2/api/responses"
+	"submission2/api/services"
+	"submission2/models"
+	"submission2/utils"
 
 	"github.com/gin-gonic/gin"
 )

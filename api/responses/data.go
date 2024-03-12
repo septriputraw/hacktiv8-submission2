@@ -1,6 +1,6 @@
 package responses
 
-import . "assignment2/models"
+import . "submission2/models"
 
 type DataList struct {
 	Count   int     `json:"count"`

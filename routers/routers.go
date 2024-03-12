@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"assignment2/api/controllers"
+	"submission2/api/controllers"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,8 +1,8 @@
 package config
 
 import (
-	"assignment2/models"
 	"fmt"
+	"submission2/models"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

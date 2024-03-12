@@ -1,8 +1,8 @@
 package services
 
 import (
-	"assignment2/config"
-	"assignment2/models"
+	"submission2/config"
+	"submission2/models"
 )
 
 func Create(newOrder *models.Order) error {
